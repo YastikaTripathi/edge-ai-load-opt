@@ -1,0 +1,8 @@
+# Adjust GitHub handles
+/infra/         @memberA
+/workloads/     @memberB
+/ml/            @memberB
+/controller/    @memberC
+/tests/         @memberA
+/dashboards/    @memberA
+/docs/          @memberC
