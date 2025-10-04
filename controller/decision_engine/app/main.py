@@ -1,8 +1,9 @@
-from fastapi import FastAPI
-from pydantic import BaseModel
 import math
 import time
-from typing import List, Dict, Optional
+from typing import Dict, List, Optional
+
+from fastapi import FastAPI
+from pydantic import BaseModel
 
 app = FastAPI(title="Decision Engine", version="0.1.0")
 
