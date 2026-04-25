@@ -12,3 +12,4 @@ Branches:
 - `main` (protected)
 - `develop`
 - feature branches: `feat/<area>-<task>`
+This project was implemented and customized by me as part of my learning and project work.
